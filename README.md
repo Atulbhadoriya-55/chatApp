@@ -35,10 +35,6 @@ DARK THEME
 LIGHT THEME
 ![](https://github.com/Atulbhadoriya-55/chatApp/blob/main/frontend/public/light.png)
 
-## Environment Variables
-
-To run this project, you will need to add the following environment variables to your .env file
-
 ## 🔑 Environment Variables
 
 Create a `.env` file inside the **backend/** folder with the following keys:
