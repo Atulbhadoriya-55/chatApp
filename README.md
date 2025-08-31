@@ -29,6 +29,12 @@ Supports authentication, private messaging, and persistent chat history.
 
 💬 Chat Page
 
+DARK THEME
+![](https://github.com/Atulbhadoriya-55/chatApp/blob/main/frontend/public/dark.png)
+
+LIGHT THEME
+![](https://github.com/Atulbhadoriya-55/chatApp/blob/main/frontend/public/light.png)
+
 ## Environment Variables
 
 To run this project, you will need to add the following environment variables to your .env file
